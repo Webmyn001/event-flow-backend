@@ -9,7 +9,7 @@ const organizerSchema = new mongoose.Schema({
   location: {
     type: String,
   },
-  logo: {
+  logoUrl: {
     type: String,
   },
   description: {
